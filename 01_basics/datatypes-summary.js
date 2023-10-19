@@ -44,8 +44,8 @@ let myYoutubename = "SakshamChauhan";
 let anotherName = myYoutubename
 anotherName = "Coding";
 
-// console.log(myYoutubename);
-// console.log(anotherName);
+console.log(myYoutubename);
+console.log(anotherName);
 
 let userOne = {
   email: "user@gmail.com",
